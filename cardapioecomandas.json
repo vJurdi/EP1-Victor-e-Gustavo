@@ -1,0 +1,21 @@
+{
+    "cardapio": {
+        "banana": 5,
+        "breja": 10.0,
+        "chocolate": 10.0,
+        "pao": 10,
+        "pizza": 20.0
+    },
+    "comandas": {
+        "2": {
+            "banana": 0,
+            "chocolate": 0
+        },
+        "3": {
+            "banana": 0
+        },
+        "32": {
+            "pao": 0
+        }
+    }
+}
